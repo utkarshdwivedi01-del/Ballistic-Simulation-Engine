@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# AI & Tooling
+.ai/
+.pytest_cache/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Generated Data (large — regenerate with: python data_gen.py)
+pinn_data/
+*.csv
+*.h5
+*.pkl
+
+# Debug artifacts
+debug*.log
+debug_all.py
+
+# Personal / non-project files
+linkedin_announcement.md
+
+# Orphaned LaTeX fragments (main report is on Overleaf)
+chapters/
+tables/
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
