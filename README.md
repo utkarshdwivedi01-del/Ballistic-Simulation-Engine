@@ -1,4 +1,4 @@
-# DMSRDE Ballistic Simulation Engine
+# Ballistic Simulation Engine
 
 A high-speed, physics-based numerical simulation engine designed for rapid ballistic impact analysis and Physics-Informed Neural Network (PINN) dataset generation. 
 
@@ -7,7 +7,7 @@ This engine bridges the gap between purely analytical formulations (which lack t
 ## Project Vision & Goals
 
 **1. Solving the "Data Starvation" Problem**
-Interns and researchers at defense organizations (e.g., DRDO) often lack access to proprietary experimental datasets or classified internal data. This engine is intentionally designed as a **synthetic data generator** to solve this problem. It produces highly realistic, diverse, physics-grounded data spanning the entire operational envelope, enabling researchers to begin ML experimentation immediately.
+Interns and researchers at defense organizations often lack access to proprietary experimental datasets or classified internal data. This engine is intentionally designed as a **synthetic data generator** to solve this problem. It produces highly realistic, diverse, physics-grounded data spanning the entire operational envelope, enabling researchers to begin ML experimentation immediately.
 
 **2. Long-Term Scalability & PINN-Readiness**
 The architecture is deliberately modular, extensible, and research-oriented. The current codebase serves as a structurally sound foundation for future advanced ML applications. The extraction of exact physical ODE residuals makes the engine completely **PINN-ready**—allowing features like surrogate models, inverse modeling, parameter identification, and uncertainty quantification to be integrated later with minimal restructuring.
