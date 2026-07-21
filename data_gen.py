@@ -1,5 +1,5 @@
 """
-DMSRDE Ballistic Simulation — Stage 2: Data Generation
+Ballistic Simulation — Stage 2: Data Generation
 
 Generates 100K trajectories using Latin Hypercube Sampling (LHS).
 Zero noise is injected to preserve the physical ODE manifold for PINN autograd.
