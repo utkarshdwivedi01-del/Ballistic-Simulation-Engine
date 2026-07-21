@@ -1,5 +1,5 @@
 """
-DMSRDE Ballistic Simulation — Comprehensive Report Graph Generator
+Ballistic Simulation — Comprehensive Report Graph Generator
 ===================================================================
 Generates 20+ publication-quality graphs for mentor presentations.
 
