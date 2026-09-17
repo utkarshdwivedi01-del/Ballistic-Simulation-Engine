@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Tests](https://github.com/utkarshd/Ballistic-Simulation-Engine/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/utkdwivedi/Ballistic-Simulation-Engine/actions/workflows/tests.yml/badge.svg)
 
 A high-speed, physics-based numerical simulation engine designed for rapid ballistic impact analysis and Physics-Informed Neural Network (PINN) dataset generation.
 
